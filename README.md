@@ -1,4 +1,4 @@
-# 🎨 ArtAdvisor · Multimodal AI & Narrative Art Interpretation Assistant
+# ArtAdvisor · Multimodal AI & Narrative Art Interpretation Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
@@ -22,7 +22,7 @@ ArtAdvisor integrates **Computer Vision**, a **Dual-Stream Deep Learning archite
 
 ---
 
-## 🏛️ System Architecture
+## System Architecture
 
 ```mermaid
 flowchart TD
@@ -83,7 +83,7 @@ flowchart TD
 
 ---
 
-## 📈 Empirical Model Evaluation & Test Benchmarks
+## Empirical Model Evaluation & Test Benchmarks
 
 The dual-stream ensemble model was evaluated on the independent test split of the curated WikiArt & ArtEmis dataset across all 14 affective categories:
 
@@ -106,7 +106,7 @@ The dual-stream ensemble model was evaluated on the independent test split of th
 
 ---
 
-## 📊 Curated Datasets & ML Engineering Pipeline
+## Curated Datasets & ML Engineering Pipeline
 
 The models were trained on a curated collection of **14,000 classical art images**:
 * **Source Collections:** WikiArt and ArtEmis benchmark datasets, cleaned and structured with metadata normalization.
@@ -116,7 +116,7 @@ The models were trained on a curated collection of **14,000 classical art images
 
 ---
 
-## 🔬 Training & Experimentation Pipeline (`training/`)
+## Training & Experimentation Pipeline (`training/`)
 
 This repository includes the complete end-to-end PyTorch training scripts used to build the thesis models:
 * `1_curata_imagini.py` — ETL pipeline for metadata aggregation, image validation, and deduplication.
@@ -127,7 +127,7 @@ This repository includes the complete end-to-end PyTorch training scripts used t
 
 ---
 
-## 🛡️ Explainable AI & Security Features
+## Explainable AI & Security Features
 
 * **Grad-CAM Saliency Maps:** Visualizes layer activations to identify regions influencing classifier decisions.
 * **Emotional Steganography:** Digital watermarking hiding metadata within high-frequency image components with PSNR (Peak Signal-to-Noise Ratio) verification.
@@ -135,7 +135,7 @@ This repository includes the complete end-to-end PyTorch training scripts used t
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### Prerequisites
 * Python 3.10 or 3.11
@@ -173,7 +173,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 👤 Author
+## Author
 
 **Dan Lucian Ghilea**  
 *MSc Student in Applied Informatics in Complex Systems · Technical University of Cluj-Napoca (TUCN)*  
@@ -183,6 +183,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
