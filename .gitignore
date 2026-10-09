@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch large model weights (distribute via releases or git-lfs)
+*.pth
+*.pt
+*.bin
+*.onnx
+!models/.gitkeep
+!models/README.md
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+
+# Streamlit secrets and local configs
+.streamlit/secrets.toml
+.streamlit/secrets.toml.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files
+gallery_uploads/*.jpg
+gallery_uploads/*.png
+!gallery_uploads/.gitkeep
+*.pdf

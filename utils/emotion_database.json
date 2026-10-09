@@ -1,0 +1,212 @@
+{
+    "Sadness": {
+        "ro_name": "Tristețe",
+        "description": "Stare contemplativă marcată de tonuri întunecate, melancolie și solitudine.",
+        "colors": [
+            "Albastru indigo",
+            "Gri cărbune",
+            "Negru umbrit"
+        ],
+        "artists": [
+            "Vincent van Gogh",
+            "Francisco Goya",
+            "Edvard Munch"
+        ],
+        "aesthetic_weight": 0.85
+    },
+    "Trust": {
+        "ro_name": "Încredere",
+        "description": "Armonie structurală, claritate compozițională și stabilitate emoțională.",
+        "colors": [
+            "Albastru ceresc",
+            "Auriu cald",
+            "Alb pur"
+        ],
+        "artists": [
+            "Leonardo da Vinci",
+            "Raphael",
+            "Jan van Eyck"
+        ],
+        "aesthetic_weight": 0.9
+    },
+    "Fear": {
+        "ro_name": "Frică",
+        "description": "Tensiune compozițională, umbre abrupte și expresii de angoasă existențială.",
+        "colors": [
+            "Negru dens",
+            "Ostru tern",
+            "Violet stins"
+        ],
+        "artists": [
+            "Zdzisław Beksiński",
+            "Francisco Goya",
+            "Hieronymus Bosch"
+        ],
+        "aesthetic_weight": 0.8
+    },
+    "Disgust": {
+        "ro_name": "Dezgust",
+        "description": "Distorsiune grotescă, respingere a armoniei clasice și realism visceral.",
+        "colors": [
+            "Verde măsliniu murdar",
+            "Galben muștar",
+            "Brun teros"
+        ],
+        "artists": [
+            "Otto Dix",
+            "Francis Bacon",
+            "Chaim Soutine"
+        ],
+        "aesthetic_weight": 0.75
+    },
+    "Anger": {
+        "ro_name": "Furie",
+        "description": "Pensulație agresivă, dinamism turbulent și contrast cromatic violent.",
+        "colors": [
+            "Roșu carmin",
+            "Portocaliu aprins",
+            "Negru cărbune"
+        ],
+        "artists": [
+            "Ernst Ludwig Kirchner",
+            "Wassily Kandinsky",
+            "Franz Marc"
+        ],
+        "aesthetic_weight": 0.88
+    },
+    "Anticipation": {
+        "ro_name": "Anticipare",
+        "description": "Lumină în transformare, priviri orientate spre orizont și perspectivă deschisă.",
+        "colors": [
+            "Galben pal",
+            "Chihlimbar",
+            "Albastru deschis"
+        ],
+        "artists": [
+            "Caspar David Friedrich",
+            "Edward Hopper",
+            "J.M.W. Turner"
+        ],
+        "aesthetic_weight": 0.82
+    },
+    "Happiness": {
+        "ro_name": "Fericire",
+        "description": "Lumină radiantă, serbări în aer liber și vitalitate exuberantă.",
+        "colors": [
+            "Auriu solar",
+            "Galben strălucitor",
+            "Roz pastel"
+        ],
+        "artists": [
+            "Pierre-Auguste Renoir",
+            "Claude Monet",
+            "Joaquín Sorolla"
+        ],
+        "aesthetic_weight": 0.92
+    },
+    "Love": {
+        "ro_name": "Iubire",
+        "description": "Tandrețe tactilă, căldură intimă și împletire de forme grațioase.",
+        "colors": [
+            "Roz pudrat",
+            "Roșu rubin",
+            "Auriu cald"
+        ],
+        "artists": [
+            "Gustav Klimt",
+            "Marc Chagall",
+            "Antonio Canova"
+        ],
+        "aesthetic_weight": 0.95
+    },
+    "Surprise": {
+        "ro_name": "Surpriză",
+        "description": "Elemente juxtapunse neașteptat, suprarealism și compoziții dinamice.",
+        "colors": [
+            "Turcoaz electric",
+            "Galben neon",
+            "Alb pur"
+        ],
+        "artists": [
+            "René Magritte",
+            "Salvador Dalí",
+            "Giorgio de Chirico"
+        ],
+        "aesthetic_weight": 0.87
+    },
+    "Optimism": {
+        "ro_name": "Optimism",
+        "description": "Răsărituri luminoase, primăvară renăscută și deschidere spațială.",
+        "colors": [
+            "Verde smarald",
+            "Galben solar",
+            "Albastru azuriu"
+        ],
+        "artists": [
+            "Claude Monet",
+            "Paul Cézanne",
+            "Henri Matisse"
+        ],
+        "aesthetic_weight": 0.89
+    },
+    "Gratitude": {
+        "ro_name": "Recunoștință",
+        "description": "Seninătate profundă, simplitate pastorală și lumină caldă de amurg.",
+        "colors": [
+            "Brun cald",
+            "Ocru auriu",
+            "Verde măsliniu"
+        ],
+        "artists": [
+            "Jean-François Millet",
+            "Rembrandt",
+            "Johannes Vermeer"
+        ],
+        "aesthetic_weight": 0.91
+    },
+    "Pessimism": {
+        "ro_name": "Pesimism",
+        "description": "Lumi în declin, peisaje aride și solitudine melancolică.",
+        "colors": [
+            "Gri plumburiu",
+            "Brun închis",
+            "Negru fumuriu"
+        ],
+        "artists": [
+            "Caspar David Friedrich",
+            "Käthe Kollwitz",
+            "Alberto Giacometti"
+        ],
+        "aesthetic_weight": 0.78
+    },
+    "Regret": {
+        "ro_name": "Regret",
+        "description": "Retrospecție nostalgică, amintiri estompate și clar-obscur intim.",
+        "colors": [
+            "Albastru cenușiu",
+            "Sepia",
+            "Violet stins"
+        ],
+        "artists": [
+            "Edvard Munch",
+            "Egon Schiele",
+            "Rembrandt"
+        ],
+        "aesthetic_weight": 0.83
+    },
+    "Agreeableness": {
+        "ro_name": "Amabilitate",
+        "description": "Echilibru clasic, armonie proporțională și pace interioară.",
+        "colors": [
+            "Piersică pastel",
+            "Bleu deschis",
+            "Menta pal"
+        ],
+        "artists": [
+            "Sandro Botticelli",
+            "Fra Angelico",
+            "Raphael"
+        ],
+        "aesthetic_weight": 0.86
+    }
+}

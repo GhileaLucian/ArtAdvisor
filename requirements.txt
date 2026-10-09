@@ -1,0 +1,23 @@
+# Core Framework
+streamlit>=1.30.0
+
+# Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+torchcam>=0.4.0
+opencv-python-headless>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Multimodal & Generative AI
+openai>=1.12.0
+
+# UI Utilities
+streamlit-cropper>=0.2.2
+
+# Document & PDF Generation
+reportlab>=4.0.0
+pypdf>=3.17.0
